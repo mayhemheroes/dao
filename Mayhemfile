@@ -1,7 +1,6 @@
-project: rnshah9/mayhem-dao
+project: dao
 target: dao
-tests: null
 
 cmds:
-  - cmd: /repo/bin/dao @@
+  - cmd: /repo/bin/dao /test.dao
     filepath: /test.dao
