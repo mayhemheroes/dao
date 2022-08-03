@@ -2,5 +2,4 @@ project: dao
 target: dao
 
 cmds:
-  - cmd: /repo/bin/dao /test.dao
-    filepath: /test.dao
+  - cmd: /install/bin/dao @@
